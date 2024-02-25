@@ -1,3 +1,6 @@
+# [shell]
+# program = "/bin/bash"
+# args = ["-l","-c","tmux attach || tmux"]
 [window]
 opacity = 0.75
 padding = { x = 5, y = 5}
