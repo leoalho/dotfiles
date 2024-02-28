@@ -10,3 +10,9 @@ This directory is inspired by this https://www.atlassian.com/git/tutorials/dotfi
 To use the git aliases in your gitconfig. Add the following lines to your .gitconfig:
 [include]
   path = ~/.git_aliases, or any other path depending on your $HOME
+
+## Tmux uses the tpm for plugins
+https://github.com/tmux-plugins/tpm
+
+## Nvim uses vim-plug
+https://github.com/junegunn/vim-plug
